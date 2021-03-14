@@ -1,0 +1,144 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+$primary-color: #DE5D43;
+$secondary-color: #000;
+
+.site-top {
+  text-align: center;
+}
+
+a, a:hover{
+  color: $primary-color;
+}
+
+header, footer {
+  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+
+  h1 {
+    background: rgba(0, 0, 0, 0.5);
+    padding: 2%;
+    width: 100%;
+  }
+
+  h2 {
+    background: rgba(0, 0, 0, 0.7);
+    color: $primary-color;
+    padding: 2%;
+  }
+}
+
+.feature-image {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: scroll;
+  background-position: center center;  
+  padding-top: 16%;
+  padding-bottom: 12%;
+}
+
+footer {
+  color: #fff;
+  text-align: center;
+
+  h1 {
+    font-size: 3em;
+  }
+
+  h2 {
+    font-size: 3em;
+  }
+
+  a, a:hover {
+    color: #fff
+  }
+}
+
+.feature-image-busside {
+  background-image: url(../images/busrighttoleft.jpeg);
+}
+
+.feature-image-bustrailer {
+  background-image: url(../images/bustrailer.jpeg);
+}
+
+// Airport Backgrounds
+
+.feature-image-airplane {
+  background-image: url(../images/airplane.jpeg);
+}
+
+.feature-image-airport-sign {
+  background-image: url(../images/airport-sign.jpeg);
+}
+
+.feature-image-airport-seat {
+  background-image: url(../images/airport-seat.jpeg);
+}
+
+// Seaport Backgrounds
+
+.feature-image-river-liffey {
+  background-image: url(../images/river-liffey.jpeg);
+}
+
+.feature-image-ferry {
+  background-image: url(../images/ferry-in-port.jpeg);
+}
+
+// Private Hire Backgrounds
+
+.feature-image-concert {
+  background-image: url(../images/concert1.jpeg);
+}
+
+.feature-image-drink {
+  background-image: url(../images/drink1.jpeg);
+}
+
+// Wedding Backgrounds
+
+.feature-image-wedding1 {
+  background-image: url(../images/wedding1.jpeg);
+}
+
+.feature-image-wedding2 {
+  background-image: url(../images/wedding2.jpeg);
+}
+
+body.post {
+  h1, h2 {
+    width: auto;
+  }
+
+}
+
+h2 time {
+  font-size: 0.7em;
+}
+
+#main-content h2 {
+  padding-bottom: 2%;
+}
+
+#main-content h1:before, #main-content h2:before, #main-content h3:before, #main-content h4:before {
+  color: $primary-color;
+}
+
+pre code {
+  color: $primary-color;
+}
+
+ul.sidebar-menu {
+  font-weight: bold;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+
+  li{
+    font-size: 1.2em;
+    margin: 10px 0;
+  }
+}

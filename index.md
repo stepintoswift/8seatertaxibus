@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## 8 SEATER TAXI BUS PORTADOWN
 
-You can use the [editor on GitHub](https://github.com/stepintoswift/8seatertaxibus/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Based in Portadown, 8 Seater Taxi Bus has a long history of operating in the Co. Armagh and surrounding areas.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We provide a number of services including local pickups, airport transfers to and from Belfast International Airport / George Best International Airport, airport transfers to and from Dublin Airport, as well as seaport transfers to Belfast and Larne docks.
 
-### Markdown
+Unlike other companies, 8 Seater Taxi Bus has a trailer available which can be used for airport baggage so that the whole family can fit into one taxi bus.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/stepintoswift/8seatertaxibus/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Call us now on <a href="tel:+447927960096">07927960096</a> and you will get straight through to Adrian who will be able to help you with any price enquiries.

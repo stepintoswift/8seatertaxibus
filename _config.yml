@@ -1,1 +1,8 @@
 theme: jekyll-theme-architect
+
+title: 8 Seater Taxi Bus
+description: Call Adrian 07927960096
+github: [metadata]
+plugins:
+  - jekyll-seo-tag
+google_analytics: UA-96543702-1
